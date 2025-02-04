@@ -9,8 +9,6 @@ A project to simulate AI emotions and personalities through path selection and r
 ## Core Idea
 - Simulate AI emotions and personalities through path selection and randomness.
 - Store data as paths in a 3D space, enabling flexible and dynamic behavior.
-- Language Generation
-Use a generative model to fill in details and complete sentences based on the semantic framework.
 
 ## Implementation Approach
 1. Simplify language understanding by analyzing the "head" and "tail" of input data.
