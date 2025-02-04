@@ -30,7 +30,7 @@ A project to simulate AI emotions and personalities through path selection and r
 - Email: [2332640175@.com]
 - Twitter: [@wenhan_wu2010]
 
-5. Potential Applications
+## Potential Applications
 
 Human-Computer Interaction:
 Enhance chatbots and virtual assistants with emotions and personalities to improve user experience.
