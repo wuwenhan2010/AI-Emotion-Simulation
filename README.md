@@ -29,3 +29,5 @@ A project to simulate AI emotions and personalities through path selection and r
 ## Contact
 - Email: [2332640175@.com]
 - Twitter: [@wenhan_wu2010]
+
+我将慢慢学习编写直至能完成这个理想
